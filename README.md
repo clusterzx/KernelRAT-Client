@@ -4,4 +4,4 @@ The program works on the principle of periodic sending requests to the Web Serve
 
 The author of this software sincerely hopes that users will use it only for good!
 
-Server repository:
+Server repository: https://github.com/Enl1ghted/KernelRAT-Server
